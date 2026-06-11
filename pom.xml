@@ -18,9 +18,9 @@
     </parent>
 
     <scm>
-        <url>https://github.com/wso2/apim-apps.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/apim-apps.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/apim-apps.git</connection>
+        <url>https://github.com/kavindasr/apim-apps.git</url>
+        <developerConnection>scm:git:https://github.com/kavindasr/apim-apps.git</developerConnection>
+        <connection>scm:git:https://github.com/kavindasr/apim-apps.git</connection>
         <tag>HEAD</tag>
     </scm>
 
